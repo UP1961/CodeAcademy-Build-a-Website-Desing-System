@@ -1,0 +1,263 @@
+* {
+    box-sizing: border-box;
+}
+
+div {
+    width: 100%;
+    height: 700px;
+    border: solid black 1px;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+    
+}
+
+h2 {
+    display: inline-block;
+    background-color: bisque;
+}
+
+h3 {
+    color:rgb(19, 19, 207);
+    text-align: center;
+    font-size: 36px;
+    margin: 10px;
+}
+
+p {
+    font-size: 24px;
+}
+
+
+/* Colors*/
+
+.colors {
+    text-align: center;
+    display: inline-block;
+    border: solid black 1px;
+    width: 300px;
+    margin: 5px;
+    padding: 50px 5px 50px 5px;
+    height: 280px;    
+}
+
+#blue {
+    background-color: rgb(19, 19, 207);
+}
+#red {
+    background-color: rgb(233, 17, 17);
+}
+#yellow {
+    background-color: rgb(221, 221, 31);
+}
+#pink {
+    background-color: rgb(168, 14, 96);
+}
+
+
+/* font-families */
+
+.left {
+    height: 280px;
+    width: 48%;
+    padding: 5px;
+    margin: 5px;
+    border: solid black 1px;
+    float: left;
+    overflow: scroll;
+}
+
+.right {
+    height: 280px;
+    width: 48%;
+    padding: 5px;
+    margin: 5px;
+    border: solid black 1px;
+    float: right;
+    overflow: scroll;
+}
+
+#Ubuntu {
+    font-family: 'Ubuntu';
+    background-color: gray;
+
+}
+
+#Mali {
+    font-family: 'Mali';
+    }
+
+#ReenieBeanie {
+    font-family: 'Reenie Beanie';
+    background-color: gray;
+}
+
+#IndieFlower {
+    font-family: 'Indie Flower';
+    
+}
+
+
+/* background-image for headings, text and structure */
+
+.Bild {
+    background-image: url(/Users/uli/ProgrammierWorkSpace/projects/Webseiten-Formate/resources/662bb991-c787-410e-81a7-3059a10d1d8d.jpg);
+    }
+
+
+
+
+
+
+
+
+
+/* 
+
+
+Altes Programm
+
+
+h1 {
+    color: rgb(19, 19, 207);
+    font-family: Ubuntu Mono;
+}
+
+div {
+    height: 500px;
+    border: 2px solid black;    
+}
+
+
+h3 {
+    font-size: 36px;
+    color: blue;
+    text-align: center;
+    margin-top: 30px;
+   }
+
+.container1 li {
+    display: inline-block;
+    width: 300px;
+    margin: 20px 7px;
+    }
+
+.container1 p {
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
+
+.blau {
+    background-color:rgb(19, 19, 207);
+}
+
+.rot {
+   background-color: rgb(234, 173, 173); 
+}
+
+.gelb {
+    background-color: rgb(237, 237, 163);
+}
+
+.pink {
+    background-color: rgb(219, 170, 179);
+}
+
+
+
+
+
+
+.container2li {
+    display: inline-block;
+    float: left;
+    width: 350px;
+    height: 300px;
+    overflow: scroll;
+    border: solid black 1px;
+    margin: 5px 2px;
+    }
+
+.container2re {
+        display: inline-block;
+        float: right;
+        width: 350px;
+        height: 300px;
+        overflow: scroll;
+        border: solid black 1px;
+        margin: 5px 2px;
+        }
+
+.Indie {
+    font-family: 'Indie Flower';
+    font-size: 24px;
+    margin: 20px 5px;
+}
+
+.Ubuntu {
+    font-family: 'Ubuntu Mono';
+    font-size: 24px;
+    margin: 20px 5px;
+}
+
+#Kursiv {
+    font-style: italic;
+}
+
+#Fett {
+    font-weight: 700;
+}
+
+#Fettkursiv {
+    font-weight: 700;
+    font-style: italic;
+}
+
+
+
+.Mali {
+    font-family: Mali;
+    font-size: 24px;
+    margin: 20px 5px;
+}
+
+#leicht {
+    font-weight: 200;
+}
+#leichtkursiv {
+    font-weight: 200;
+    font-style: italic;
+}
+
+.Reenie {
+    font-family: Reenie Beanie;
+    font-size: 24px;
+    margin: 20px 5px;
+}
+
+.DivTabelle {
+    padding: 50px 100px;
+}
+
+th {
+    font-size: 36px;
+}
+
+td {
+    font-size: 24px;
+    background-color:rgb(237, 237, 163);
+    border: 1px solid black;
+}
+
+
+.op {
+    list-style-type: none;
+}
+
+*/
+
+  
+
